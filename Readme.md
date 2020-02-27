@@ -1,5 +1,5 @@
 # Configurando-VS-code
-> Tutorial para configuração do visual studio code 
+> Tutorial para configuração do visual studio code (Diego Fernandes - Rocketseat)
 #
 ##### Fira Code
 - Baixe o FiraCode no link https://github.com/tonsky/FiraCode/releases/download/2/FiraCode_2.zip
